@@ -1,0 +1,14 @@
+2022-03-13T22:18:37.172126 : {"error":true,"detail":"Invalid token"}
+2022-03-13T22:18:37.172126 : #0      climaAtual (package:climatempo/api.dart:34:35)
+<asynchronous suspension>
+#1      registrarCidadeEBuscarTempo (file:///Users/juliohenriquebitencourt/Docs/dev/projects/dart-book/code/pt_Br/na_pratica/15_climatempo_arquivos_isolate_zone/bin/climatempo.dart:56:10)
+<asynchronous suspension>
+#2      executar (file:///Users/juliohenriquebitencourt/Docs/dev/projects/dart-book/code/pt_Br/na_pratica/15_climatempo_arquivos_isolate_zone/bin/climatempo.dart:44:19)
+<asynchronous suspension>
+2022-03-13T22:18:54.065327 : {"error":true,"detail":"Invalid token"}
+2022-03-13T22:18:54.065327 : #0      climaAtual (package:climatempo/api.dart:34:35)
+<asynchronous suspension>
+#1      registrarCidadeEBuscarTempo (file:///Users/juliohenriquebitencourt/Docs/dev/projects/dart-book/code/pt_Br/na_pratica/15_climatempo_arquivos_isolate_zone/bin/climatempo.dart:56:10)
+<asynchronous suspension>
+#2      executar (file:///Users/juliohenriquebitencourt/Docs/dev/projects/dart-book/code/pt_Br/na_pratica/15_climatempo_arquivos_isolate_zone/bin/climatempo.dart:44:19)
+<asynchronous suspension>

@@ -1,0 +1,17 @@
+2022-03-13T23:13:23.420404 : Erro ao salvar o tempo no arquivo
+2022-03-13T23:13:23.420404 : #0      salvarTempo.<anonymous closure> (package:climatempo/log.dart:24:5)
+#1      salvarTempo.<anonymous closure> (package:climatempo/log.dart:23:19)
+#2      _rootRun (dart:async/zone.dart:1426:13)
+#3      _CustomZone.run (dart:async/zone.dart:1328:19)
+#4      _runZoned (dart:async/zone.dart:1861:10)
+#5      runZonedGuarded (dart:async/zone.dart:1849:12)
+#6      salvarTempo (package:climatempo/log.dart:23:3)
+#7      _delayEntrypointInvocation.<anonymous closure> (dart:isolate-patch/isolate_patch.dart:300:17)
+#8      _RawReceivePortImpl._handleMessage (dart:isolate-patch/isolate_patch.dart:192:12)
+2022-03-13T23:14:29.744959 : FileSystemException: Cannot open file, path = 'log/clima/4915.txt' (OS Error: No such file or directory, errno = 2)
+2022-03-13T23:14:29.744959 : #0      _File.open.<anonymous closure> (dart:io/file_impl.dart:356:9)
+#1      _rootRunUnary (dart:async/zone.dart:1434:47)
+#2      _CustomZone.runUnary (dart:async/zone.dart:1335:19)
+<asynchronous suspension>
+#3      salvarTempo.<anonymous closure> (package:climatempo/log.dart:25:5)
+<asynchronous suspension>

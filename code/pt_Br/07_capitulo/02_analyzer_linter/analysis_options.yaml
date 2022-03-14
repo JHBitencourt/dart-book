@@ -1,0 +1,7 @@
+linter:
+  rules:
+    - camel_case_types
+    - non_constant_identifier_names
+    - avoid_init_to_null
+    - always_declare_return_types
+    - unnecessary_new

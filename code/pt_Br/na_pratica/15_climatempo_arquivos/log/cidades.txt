@@ -1,0 +1,309 @@
+Id:  5049  -  Nome:  Abdon Batista  -  Estado:  SC, País:  BR  
+Id:  5050  -  Nome:  Abelardo Luz  -  Estado:  SC, País:  BR  
+Id:  5051  -  Nome:  Agrolândia  -  Estado:  SC, País:  BR  
+Id:  5052  -  Nome:  Agronômica  -  Estado:  SC, País:  BR  
+Id:  5053  -  Nome:  Água Doce  -  Estado:  SC, País:  BR  
+Id:  5054  -  Nome:  Águas Brancas  -  Estado:  SC, País:  BR  
+Id:  5055  -  Nome:  Águas de Chapecó  -  Estado:  SC, País:  BR  
+Id:  5056  -  Nome:  Águas Frias  -  Estado:  SC, País:  BR  
+Id:  5057  -  Nome:  Águas Mornas  -  Estado:  SC, País:  BR  
+Id:  5058  -  Nome:  Alfredo Wagner  -  Estado:  SC, País:  BR  
+Id:  5059  -  Nome:  Alto Bela Vista  -  Estado:  SC, País:  BR  
+Id:  5060  -  Nome:  Anchieta  -  Estado:  SC, País:  BR  
+Id:  5061  -  Nome:  Angelina  -  Estado:  SC, País:  BR  
+Id:  5062  -  Nome:  Anita Garibaldi  -  Estado:  SC, País:  BR  
+Id:  5063  -  Nome:  Anitápolis  -  Estado:  SC, País:  BR  
+Id:  5064  -  Nome:  Anta Gorda  -  Estado:  SC, País:  BR  
+Id:  5065  -  Nome:  Antônio Carlos  -  Estado:  SC, País:  BR  
+Id:  5066  -  Nome:  Apiúna  -  Estado:  SC, País:  BR  
+Id:  5067  -  Nome:  Arabutã  -  Estado:  SC, País:  BR  
+Id:  5068  -  Nome:  Araquari  -  Estado:  SC, País:  BR  
+Id:  5069  -  Nome:  Araranguá  -  Estado:  SC, País:  BR  
+Id:  5070  -  Nome:  Armazém  -  Estado:  SC, País:  BR  
+Id:  5071  -  Nome:  Arroio Trinta  -  Estado:  SC, País:  BR  
+Id:  5072  -  Nome:  Arvoredo  -  Estado:  SC, País:  BR  
+Id:  5073  -  Nome:  Ascurra  -  Estado:  SC, País:  BR  
+Id:  5074  -  Nome:  Atalanta  -  Estado:  SC, País:  BR  
+Id:  5075  -  Nome:  Aurora  -  Estado:  SC, País:  BR  
+Id:  5076  -  Nome:  Balneário Arroio do Silva  -  Estado:  SC, País:  BR  
+Id:  5077  -  Nome:  Balneário Barra do Sul  -  Estado:  SC, País:  BR  
+Id:  5078  -  Nome:  Balneário Camboriú  -  Estado:  SC, País:  BR  
+Id:  5080  -  Nome:  Balneário Gaivota  -  Estado:  SC, País:  BR  
+Id:  4769  -  Nome:  Balneário Piçarras  -  Estado:  SC, País:  BR  
+Id:  5081  -  Nome:  Bandeirante  -  Estado:  SC, País:  BR  
+Id:  5082  -  Nome:  Barra Bonita  -  Estado:  SC, País:  BR  
+Id:  5083  -  Nome:  Barra do Ibiraquera  -  Estado:  SC, País:  BR  
+Id:  5084  -  Nome:  Barra do Saí  -  Estado:  SC, País:  BR  
+Id:  5085  -  Nome:  Barra Velha  -  Estado:  SC, País:  BR  
+Id:  5086  -  Nome:  Bela Vista do Toldo  -  Estado:  SC, País:  BR  
+Id:  5087  -  Nome:  Belmonte  -  Estado:  SC, País:  BR  
+Id:  5088  -  Nome:  Benedito Novo  -  Estado:  SC, País:  BR  
+Id:  5089  -  Nome:  Biguaçu  -  Estado:  SC, País:  BR  
+Id:  5090  -  Nome:  Blumenau  -  Estado:  SC, País:  BR  
+Id:  5091  -  Nome:  Bocaina do Sul  -  Estado:  SC, País:  BR  
+Id:  5092  -  Nome:  Bombinhas  -  Estado:  SC, País:  BR  
+Id:  5093  -  Nome:  Bom Jardim da Serra  -  Estado:  SC, País:  BR  
+Id:  5095  -  Nome:  Bom Jesus  -  Estado:  SC, País:  BR  
+Id:  5094  -  Nome:  Bom Jesus do Oeste  -  Estado:  SC, País:  BR  
+Id:  5096  -  Nome:  Bom Retiro  -  Estado:  SC, País:  BR  
+Id:  5097  -  Nome:  Bom Sucesso  -  Estado:  SC, País:  BR  
+Id:  5098  -  Nome:  Botuverá  -  Estado:  SC, País:  BR  
+Id:  5099  -  Nome:  Braço do Norte  -  Estado:  SC, País:  BR  
+Id:  5100  -  Nome:  Braço do Trombudo  -  Estado:  SC, País:  BR  
+Id:  5101  -  Nome:  Brunópolis  -  Estado:  SC, País:  BR  
+Id:  5102  -  Nome:  Brusque  -  Estado:  SC, País:  BR  
+Id:  5103  -  Nome:  Caçador  -  Estado:  SC, País:  BR  
+Id:  5104  -  Nome:  Caibi  -  Estado:  SC, País:  BR  
+Id:  5105  -  Nome:  Calmon  -  Estado:  SC, País:  BR  
+Id:  5106  -  Nome:  Camboriú  -  Estado:  SC, País:  BR  
+Id:  5107  -  Nome:  Campina da Alegria  -  Estado:  SC, País:  BR  
+Id:  5108  -  Nome:  Campo Alegre  -  Estado:  SC, País:  BR  
+Id:  5109  -  Nome:  Campo Belo do Sul  -  Estado:  SC, País:  BR  
+Id:  5110  -  Nome:  Campo Erê  -  Estado:  SC, País:  BR  
+Id:  5111  -  Nome:  Campos Novos  -  Estado:  SC, País:  BR  
+Id:  5112  -  Nome:  Canelinha  -  Estado:  SC, País:  BR  
+Id:  5113  -  Nome:  Canoinhas  -  Estado:  SC, País:  BR  
+Id:  5114  -  Nome:  Capão Alto  -  Estado:  SC, País:  BR  
+Id:  5115  -  Nome:  Capinzal  -  Estado:  SC, País:  BR  
+Id:  5116  -  Nome:  Capivari de Baixo  -  Estado:  SC, País:  BR  
+Id:  5117  -  Nome:  Catanduvas  -  Estado:  SC, País:  BR  
+Id:  5118  -  Nome:  Caxambu do Sul  -  Estado:  SC, País:  BR  
+Id:  5119  -  Nome:  Celso Ramos  -  Estado:  SC, País:  BR  
+Id:  4888  -  Nome:  Cerro Negro  -  Estado:  SC, País:  BR  
+Id:  4889  -  Nome:  Chapadão do Lageado  -  Estado:  SC, País:  BR  
+Id:  4890  -  Nome:  Chapecó  -  Estado:  SC, País:  BR  
+Id:  4891  -  Nome:  Cocal do Sul  -  Estado:  SC, País:  BR  
+Id:  4892  -  Nome:  Concórdia  -  Estado:  SC, País:  BR  
+Id:  4893  -  Nome:  Cordilheira Alta  -  Estado:  SC, País:  BR  
+Id:  4894  -  Nome:  Coronel Freitas  -  Estado:  SC, País:  BR  
+Id:  4895  -  Nome:  Coronel Martins  -  Estado:  SC, País:  BR  
+Id:  4896  -  Nome:  Correia Pinto  -  Estado:  SC, País:  BR  
+Id:  4897  -  Nome:  Corupá  -  Estado:  SC, País:  BR  
+Id:  4898  -  Nome:  Criciúma  -  Estado:  SC, País:  BR  
+Id:  4899  -  Nome:  Cunha Porã  -  Estado:  SC, País:  BR  
+Id:  4900  -  Nome:  Cunhataí  -  Estado:  SC, País:  BR  
+Id:  4901  -  Nome:  Curitibanos  -  Estado:  SC, País:  BR  
+Id:  4902  -  Nome:  Descanso  -  Estado:  SC, País:  BR  
+Id:  4903  -  Nome:  Dionísio Cerqueira  -  Estado:  SC, País:  BR  
+Id:  4904  -  Nome:  Dona Emma  -  Estado:  SC, País:  BR  
+Id:  4905  -  Nome:  Doutor Pedrinho  -  Estado:  SC, País:  BR  
+Id:  4906  -  Nome:  Enseada de Brito  -  Estado:  SC, País:  BR  
+Id:  4907  -  Nome:  Entre Rios  -  Estado:  SC, País:  BR  
+Id:  4909  -  Nome:  Ermo  -  Estado:  SC, País:  BR  
+Id:  4912  -  Nome:  Erval Velho  -  Estado:  SC, País:  BR  
+Id:  4913  -  Nome:  Faxinal dos Guedes  -  Estado:  SC, País:  BR  
+Id:  4914  -  Nome:  Flor do Sertão  -  Estado:  SC, País:  BR  
+Id:  4915  -  Nome:  Florianópolis  -  Estado:  SC, País:  BR  
+Id:  4916  -  Nome:  Formosa do Sul  -  Estado:  SC, País:  BR  
+Id:  4918  -  Nome:  Forquilhinha  -  Estado:  SC, País:  BR  
+Id:  4919  -  Nome:  Fraiburgo  -  Estado:  SC, País:  BR  
+Id:  4920  -  Nome:  Frei Rogério  -  Estado:  SC, País:  BR  
+Id:  4921  -  Nome:  Galvão  -  Estado:  SC, País:  BR  
+Id:  4922  -  Nome:  Garopaba  -  Estado:  SC, País:  BR  
+Id:  4923  -  Nome:  Garuva  -  Estado:  SC, País:  BR  
+Id:  4924  -  Nome:  Gaspar  -  Estado:  SC, País:  BR  
+Id:  4925  -  Nome:  Governador Celso Ramos  -  Estado:  SC, País:  BR  
+Id:  4927  -  Nome:  Grão Pará  -  Estado:  SC, País:  BR  
+Id:  4928  -  Nome:  Gravatal  -  Estado:  SC, País:  BR  
+Id:  4929  -  Nome:  Guabiruba  -  Estado:  SC, País:  BR  
+Id:  4930  -  Nome:  Guaraciaba  -  Estado:  SC, País:  BR  
+Id:  4931  -  Nome:  Guaramirim  -  Estado:  SC, País:  BR  
+Id:  4932  -  Nome:  Guarda do Embaú  -  Estado:  SC, País:  BR  
+Id:  4933  -  Nome:  Guarujá do Sul  -  Estado:  SC, País:  BR  
+Id:  4935  -  Nome:  Guatá  -  Estado:  SC, País:  BR  
+Id:  4934  -  Nome:  Guatambú  -  Estado:  SC, País:  BR  
+Id:  4936  -  Nome:  Herval d'Oeste  -  Estado:  SC, País:  BR  
+Id:  4937  -  Nome:  Ibiam  -  Estado:  SC, País:  BR  
+Id:  4938  -  Nome:  Ibicaré  -  Estado:  SC, País:  BR  
+Id:  4939  -  Nome:  Ibirama  -  Estado:  SC, País:  BR  
+Id:  4940  -  Nome:  Içara  -  Estado:  SC, País:  BR  
+Id:  4941  -  Nome:  Ilhota  -  Estado:  SC, País:  BR  
+Id:  4942  -  Nome:  Imaruí  -  Estado:  SC, País:  BR  
+Id:  4943  -  Nome:  Imbituba  -  Estado:  SC, País:  BR  
+Id:  4944  -  Nome:  Imbuia  -  Estado:  SC, País:  BR  
+Id:  4945  -  Nome:  Indaial  -  Estado:  SC, País:  BR  
+Id:  4946  -  Nome:  Iomerê  -  Estado:  SC, País:  BR  
+Id:  4947  -  Nome:  Ipira  -  Estado:  SC, País:  BR  
+Id:  4948  -  Nome:  Ipoméia  -  Estado:  SC, País:  BR  
+Id:  4949  -  Nome:  Iporã do Oeste  -  Estado:  SC, País:  BR  
+Id:  4950  -  Nome:  Ipuaçu  -  Estado:  SC, País:  BR  
+Id:  4951  -  Nome:  Ipumirim  -  Estado:  SC, País:  BR  
+Id:  4952  -  Nome:  Iraceminha  -  Estado:  SC, País:  BR  
+Id:  4953  -  Nome:  Irani  -  Estado:  SC, País:  BR  
+Id:  4954  -  Nome:  Irati  -  Estado:  SC, País:  BR  
+Id:  4955  -  Nome:  Irineópolis  -  Estado:  SC, País:  BR  
+Id:  4962  -  Nome:  Itá  -  Estado:  SC, País:  BR  
+Id:  4956  -  Nome:  Itaiópolis  -  Estado:  SC, País:  BR  
+Id:  4957  -  Nome:  Itajaí  -  Estado:  SC, País:  BR  
+Id:  4958  -  Nome:  Itapema  -  Estado:  SC, País:  BR  
+Id:  4959  -  Nome:  Itapiranga  -  Estado:  SC, País:  BR  
+Id:  4960  -  Nome:  Itapoá  -  Estado:  SC, País:  BR  
+Id:  4961  -  Nome:  Itapocu  -  Estado:  SC, País:  BR  
+Id:  4963  -  Nome:  Ituporanga  -  Estado:  SC, País:  BR  
+Id:  4964  -  Nome:  Jaborá  -  Estado:  SC, País:  BR  
+Id:  4965  -  Nome:  Jacinto Machado  -  Estado:  SC, País:  BR  
+Id:  4966  -  Nome:  Jaguaruna  -  Estado:  SC, País:  BR  
+Id:  4967  -  Nome:  Jaraguá do Sul  -  Estado:  SC, País:  BR  
+Id:  4968  -  Nome:  Jardinópolis  -  Estado:  SC, País:  BR  
+Id:  4969  -  Nome:  Joaçaba  -  Estado:  SC, País:  BR  
+Id:  4970  -  Nome:  Joinville  -  Estado:  SC, País:  BR  
+Id:  4971  -  Nome:  José Boiteux  -  Estado:  SC, País:  BR  
+Id:  4972  -  Nome:  Jupiá  -  Estado:  SC, País:  BR  
+Id:  4974  -  Nome:  Lacerdópolis  -  Estado:  SC, País:  BR  
+Id:  4975  -  Nome:  Lages  -  Estado:  SC, País:  BR  
+Id:  4976  -  Nome:  Laguna  -  Estado:  SC, País:  BR  
+Id:  4977  -  Nome:  Lajeado Grande  -  Estado:  SC, País:  BR  
+Id:  4978  -  Nome:  Laurentino  -  Estado:  SC, País:  BR  
+Id:  4979  -  Nome:  Lauro Muller  -  Estado:  SC, País:  BR  
+Id:  4980  -  Nome:  Lebon Régis  -  Estado:  SC, País:  BR  
+Id:  4981  -  Nome:  Leoberto Leal  -  Estado:  SC, País:  BR  
+Id:  4982  -  Nome:  Lindóia do Sul  -  Estado:  SC, País:  BR  
+Id:  4983  -  Nome:  Lontras  -  Estado:  SC, País:  BR  
+Id:  4984  -  Nome:  Luiz Alves  -  Estado:  SC, País:  BR  
+Id:  4985  -  Nome:  Luzerna  -  Estado:  SC, País:  BR  
+Id:  4986  -  Nome:  Macieira  -  Estado:  SC, País:  BR  
+Id:  4987  -  Nome:  Mafra  -  Estado:  SC, País:  BR  
+Id:  4988  -  Nome:  Major Gercino  -  Estado:  SC, País:  BR  
+Id:  4989  -  Nome:  Major Vieira  -  Estado:  SC, País:  BR  
+Id:  4990  -  Nome:  Maracajá  -  Estado:  SC, País:  BR  
+Id:  4991  -  Nome:  Maravilha  -  Estado:  SC, País:  BR  
+Id:  4992  -  Nome:  Marema  -  Estado:  SC, País:  BR  
+Id:  4993  -  Nome:  Massaranduba  -  Estado:  SC, País:  BR  
+Id:  4994  -  Nome:  Matos Costa  -  Estado:  SC, País:  BR  
+Id:  4995  -  Nome:  Meleiro  -  Estado:  SC, País:  BR  
+Id:  4996  -  Nome:  Mirim Doce  -  Estado:  SC, País:  BR  
+Id:  4997  -  Nome:  Modelo  -  Estado:  SC, País:  BR  
+Id:  4998  -  Nome:  Mondaí  -  Estado:  SC, País:  BR  
+Id:  4999  -  Nome:  Monte Carlo  -  Estado:  SC, País:  BR  
+Id:  5000  -  Nome:  Monte Castelo  -  Estado:  SC, País:  BR  
+Id:  5001  -  Nome:  Morro da Fumaça  -  Estado:  SC, País:  BR  
+Id:  5002  -  Nome:  Morro Grande  -  Estado:  SC, País:  BR  
+Id:  5003  -  Nome:  Navegantes  -  Estado:  SC, País:  BR  
+Id:  5004  -  Nome:  Nova Erechim  -  Estado:  SC, País:  BR  
+Id:  5005  -  Nome:  Nova Itaberaba  -  Estado:  SC, País:  BR  
+Id:  5006  -  Nome:  Nova Trento  -  Estado:  SC, País:  BR  
+Id:  5007  -  Nome:  Nova Veneza  -  Estado:  SC, País:  BR  
+Id:  4678  -  Nome:  Novo Horizonte  -  Estado:  SC, País:  BR  
+Id:  4679  -  Nome:  Orleans  -  Estado:  SC, País:  BR  
+Id:  4680  -  Nome:  Otacílio Costa  -  Estado:  SC, País:  BR  
+Id:  4681  -  Nome:  Ouro  -  Estado:  SC, País:  BR  
+Id:  4682  -  Nome:  Ouro Verde  -  Estado:  SC, País:  BR  
+Id:  4683  -  Nome:  Paial  -  Estado:  SC, País:  BR  
+Id:  4648  -  Nome:  Painel  -  Estado:  SC, País:  BR  
+Id:  4756  -  Nome:  Palhoça  -  Estado:  SC, País:  BR  
+Id:  4757  -  Nome:  Palma Sola  -  Estado:  SC, País:  BR  
+Id:  4758  -  Nome:  Palmeira  -  Estado:  SC, País:  BR  
+Id:  4759  -  Nome:  Palmitos  -  Estado:  SC, País:  BR  
+Id:  4760  -  Nome:  Papanduva  -  Estado:  SC, País:  BR  
+Id:  4761  -  Nome:  Paraíso  -  Estado:  SC, País:  BR  
+Id:  4762  -  Nome:  Passo de Torres  -  Estado:  SC, País:  BR  
+Id:  4763  -  Nome:  Passos Maia  -  Estado:  SC, País:  BR  
+Id:  4764  -  Nome:  Paulo Lopes  -  Estado:  SC, País:  BR  
+Id:  4765  -  Nome:  Pedras Grandes  -  Estado:  SC, País:  BR  
+Id:  4766  -  Nome:  Penha  -  Estado:  SC, País:  BR  
+Id:  4767  -  Nome:  Peritiba  -  Estado:  SC, País:  BR  
+Id:  4768  -  Nome:  Petrolândia  -  Estado:  SC, País:  BR  
+Id:  4770  -  Nome:  Pinhalzinho  -  Estado:  SC, País:  BR  
+Id:  4771  -  Nome:  Pinheiro Preto  -  Estado:  SC, País:  BR  
+Id:  4772  -  Nome:  Piratuba  -  Estado:  SC, País:  BR  
+Id:  4773  -  Nome:  Planalto Alegre  -  Estado:  SC, País:  BR  
+Id:  4774  -  Nome:  Pomerode  -  Estado:  SC, País:  BR  
+Id:  4776  -  Nome:  Ponte Alta  -  Estado:  SC, País:  BR  
+Id:  4775  -  Nome:  Ponte Alta do Norte  -  Estado:  SC, País:  BR  
+Id:  4777  -  Nome:  Ponte Serrada  -  Estado:  SC, País:  BR  
+Id:  4778  -  Nome:  Porto Belo  -  Estado:  SC, País:  BR  
+Id:  4779  -  Nome:  Porto União  -  Estado:  SC, País:  BR  
+Id:  4780  -  Nome:  Pouso Redondo  -  Estado:  SC, País:  BR  
+Id:  4781  -  Nome:  Praia do Santinho  -  Estado:  SC, País:  BR  
+Id:  4782  -  Nome:  Praia Grande  -  Estado:  SC, País:  BR  
+Id:  4783  -  Nome:  Presidente Castelo Branco  -  Estado:  SC, País:  BR  
+Id:  4784  -  Nome:  Presidente Getúlio  -  Estado:  SC, País:  BR  
+Id:  4785  -  Nome:  Presidente Nereu  -  Estado:  SC, País:  BR  
+Id:  4811  -  Nome:  Princesa  -  Estado:  SC, País:  BR  
+Id:  4812  -  Nome:  Quilombo  -  Estado:  SC, País:  BR  
+Id:  4813  -  Nome:  Rancho Queimado  -  Estado:  SC, País:  BR  
+Id:  4814  -  Nome:  Rio das Antas  -  Estado:  SC, País:  BR  
+Id:  4815  -  Nome:  Rio do Campo  -  Estado:  SC, País:  BR  
+Id:  4816  -  Nome:  Rio d'Oeste  -  Estado:  SC, País:  BR  
+Id:  4817  -  Nome:  Rio dos Cedros  -  Estado:  SC, País:  BR  
+Id:  4818  -  Nome:  Rio do Sul  -  Estado:  SC, País:  BR  
+Id:  4819  -  Nome:  Rio Fortuna  -  Estado:  SC, País:  BR  
+Id:  4820  -  Nome:  Rio Negrinho  -  Estado:  SC, País:  BR  
+Id:  4821  -  Nome:  Rio Rufino  -  Estado:  SC, País:  BR  
+Id:  4822  -  Nome:  Riqueza  -  Estado:  SC, País:  BR  
+Id:  4823  -  Nome:  Rodeio  -  Estado:  SC, País:  BR  
+Id:  4824  -  Nome:  Romelândia  -  Estado:  SC, País:  BR  
+Id:  4825  -  Nome:  Salete  -  Estado:  SC, País:  BR  
+Id:  4826  -  Nome:  Saltinho  -  Estado:  SC, País:  BR  
+Id:  4827  -  Nome:  Salto Veloso  -  Estado:  SC, País:  BR  
+Id:  4828  -  Nome:  Sangão  -  Estado:  SC, País:  BR  
+Id:  4829  -  Nome:  Santa Cecília  -  Estado:  SC, País:  BR  
+Id:  4830  -  Nome:  Santa Helena  -  Estado:  SC, País:  BR  
+Id:  4831  -  Nome:  Santa Rosa de Lima  -  Estado:  SC, País:  BR  
+Id:  4832  -  Nome:  Santa Rosa do Sul  -  Estado:  SC, País:  BR  
+Id:  4834  -  Nome:  Santa Terezinha  -  Estado:  SC, País:  BR  
+Id:  4833  -  Nome:  Santa Terezinha do Progresso  -  Estado:  SC, País:  BR  
+Id:  4835  -  Nome:  Santiago do Sul  -  Estado:  SC, País:  BR  
+Id:  4836  -  Nome:  Santo Amaro da Imperatriz  -  Estado:  SC, País:  BR  
+Id:  4837  -  Nome:  São Bento do Sul  -  Estado:  SC, País:  BR  
+Id:  4838  -  Nome:  São Bernardino  -  Estado:  SC, País:  BR  
+Id:  4839  -  Nome:  São Bonifácio  -  Estado:  SC, País:  BR  
+Id:  4840  -  Nome:  São Carlos  -  Estado:  SC, País:  BR  
+Id:  4841  -  Nome:  São Cristovão do Sul  -  Estado:  SC, País:  BR  
+Id:  4842  -  Nome:  São Domingos  -  Estado:  SC, País:  BR  
+Id:  4843  -  Nome:  São Francisco do Sul  -  Estado:  SC, País:  BR  
+Id:  4844  -  Nome:  São João Batista  -  Estado:  SC, País:  BR  
+Id:  4845  -  Nome:  São João do Itaperiú  -  Estado:  SC, País:  BR  
+Id:  4846  -  Nome:  São João do Oeste  -  Estado:  SC, País:  BR  
+Id:  4847  -  Nome:  São João do Sul  -  Estado:  SC, País:  BR  
+Id:  4848  -  Nome:  São Joaquim  -  Estado:  SC, País:  BR  
+Id:  4851  -  Nome:  São José  -  Estado:  SC, País:  BR  
+Id:  4849  -  Nome:  São José do Cedro  -  Estado:  SC, País:  BR  
+Id:  4850  -  Nome:  São José do Cerrito  -  Estado:  SC, País:  BR  
+Id:  4852  -  Nome:  São Lourenço d'Oeste  -  Estado:  SC, País:  BR  
+Id:  4853  -  Nome:  São Ludgero  -  Estado:  SC, País:  BR  
+Id:  4854  -  Nome:  São Martinho  -  Estado:  SC, País:  BR  
+Id:  4855  -  Nome:  São Miguel da Boa Vista  -  Estado:  SC, País:  BR  
+Id:  4856  -  Nome:  São Miguel do Oeste  -  Estado:  SC, País:  BR  
+Id:  4857  -  Nome:  São Pedro de Alcântara  -  Estado:  SC, País:  BR  
+Id:  4858  -  Nome:  Saudades  -  Estado:  SC, País:  BR  
+Id:  85793  -  Nome:  SBCH  -  Estado:  SC, País:  BR  
+Id:  74832  -  Nome:  SBFL  -  Estado:  SC, País:  BR  
+Id:  74833  -  Nome:  SBJV  -  Estado:  SC, País:  BR  
+Id:  85285  -  Nome:  SBNF  -  Estado:  SC, País:  BR  
+Id:  4859  -  Nome:  Schroeder  -  Estado:  SC, País:  BR  
+Id:  4860  -  Nome:  Seara  -  Estado:  SC, País:  BR  
+Id:  4861  -  Nome:  Serra Alta  -  Estado:  SC, País:  BR  
+Id:  4862  -  Nome:  Siderópolis  -  Estado:  SC, País:  BR  
+Id:  4863  -  Nome:  Sombrio  -  Estado:  SC, País:  BR  
+Id:  4864  -  Nome:  Sul Brasil  -  Estado:  SC, País:  BR  
+Id:  4865  -  Nome:  Taió  -  Estado:  SC, País:  BR  
+Id:  4866  -  Nome:  Tangará  -  Estado:  SC, País:  BR  
+Id:  4867  -  Nome:  Tigrinhos  -  Estado:  SC, País:  BR  
+Id:  4868  -  Nome:  Tijucas  -  Estado:  SC, País:  BR  
+Id:  4869  -  Nome:  Timbé do Sul  -  Estado:  SC, País:  BR  
+Id:  4871  -  Nome:  Timbó  -  Estado:  SC, País:  BR  
+Id:  4870  -  Nome:  Timbó Grande  -  Estado:  SC, País:  BR  
+Id:  4872  -  Nome:  Três Barras  -  Estado:  SC, País:  BR  
+Id:  4875  -  Nome:  Treviso  -  Estado:  SC, País:  BR  
+Id:  4878  -  Nome:  Treze de Maio  -  Estado:  SC, País:  BR  
+Id:  4879  -  Nome:  Treze Tílias  -  Estado:  SC, País:  BR  
+Id:  4880  -  Nome:  Trombudo Central  -  Estado:  SC, País:  BR  
+Id:  4881  -  Nome:  Tubarão  -  Estado:  SC, País:  BR  
+Id:  4882  -  Nome:  Tunápolis  -  Estado:  SC, País:  BR  
+Id:  4883  -  Nome:  Turvo  -  Estado:  SC, País:  BR  
+Id:  4884  -  Nome:  União do Oeste  -  Estado:  SC, País:  BR  
+Id:  4885  -  Nome:  Urubici  -  Estado:  SC, País:  BR  
+Id:  4886  -  Nome:  Urupema  -  Estado:  SC, País:  BR  
+Id:  4887  -  Nome:  Urussanga  -  Estado:  SC, País:  BR  
+Id:  4482  -  Nome:  Vargeão  -  Estado:  SC, País:  BR  
+Id:  4484  -  Nome:  Vargem  -  Estado:  SC, País:  BR  
+Id:  4483  -  Nome:  Vargem Bonita  -  Estado:  SC, País:  BR  
+Id:  4485  -  Nome:  Vidal Ramos  -  Estado:  SC, País:  BR  
+Id:  4486  -  Nome:  Videira  -  Estado:  SC, País:  BR  
+Id:  4487  -  Nome:  Vitor Meireles  -  Estado:  SC, País:  BR  
+Id:  4488  -  Nome:  Witmarsum  -  Estado:  SC, País:  BR  
+Id:  4489  -  Nome:  Xanxerê  -  Estado:  SC, País:  BR  
+Id:  4490  -  Nome:  Xavantina  -  Estado:  SC, País:  BR  
+Id:  4491  -  Nome:  Xaxim  -  Estado:  SC, País:  BR  
+Id:  4492  -  Nome:  Zortéa  -  Estado:  SC, País:  BR  

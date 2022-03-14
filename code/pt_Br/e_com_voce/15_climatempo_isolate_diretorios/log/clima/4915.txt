@@ -1,0 +1,5 @@
+===
+Cidade:  Florianópolis,  SC  -  BR  
+2022-03-13 23:11:47.000
+Temperatura:  20  -  Sensação:  20
+Umidade:  100  -  Velocidade  do  Vento:  15

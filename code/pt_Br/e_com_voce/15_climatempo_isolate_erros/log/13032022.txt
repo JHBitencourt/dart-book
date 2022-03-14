@@ -1,0 +1,46 @@
+2022-03-13T22:18:37.172126 : {"error":true,"detail":"Invalid token"}
+2022-03-13T22:18:37.172126 : #0      climaAtual (package:climatempo/api.dart:34:35)
+<asynchronous suspension>
+#1      registrarCidadeEBuscarTempo (file:///Users/juliohenriquebitencourt/Docs/dev/projects/dart-book/code/pt_Br/na_pratica/15_climatempo_arquivos_isolate_zone/bin/climatempo.dart:56:10)
+<asynchronous suspension>
+#2      executar (file:///Users/juliohenriquebitencourt/Docs/dev/projects/dart-book/code/pt_Br/na_pratica/15_climatempo_arquivos_isolate_zone/bin/climatempo.dart:44:19)
+<asynchronous suspension>
+2022-03-13T22:18:54.065327 : {"error":true,"detail":"Invalid token"}
+2022-03-13T22:18:54.065327 : #0      climaAtual (package:climatempo/api.dart:34:35)
+<asynchronous suspension>
+#1      registrarCidadeEBuscarTempo (file:///Users/juliohenriquebitencourt/Docs/dev/projects/dart-book/code/pt_Br/na_pratica/15_climatempo_arquivos_isolate_zone/bin/climatempo.dart:56:10)
+<asynchronous suspension>
+#2      executar (file:///Users/juliohenriquebitencourt/Docs/dev/projects/dart-book/code/pt_Br/na_pratica/15_climatempo_arquivos_isolate_zone/bin/climatempo.dart:44:19)
+<asynchronous suspension>2022-03-13T22:53:09.878905 : type 'List<dynamic>' is not a subtype of type 'StackTrace'
+2022-03-13T22:53:09.878905 : #0      salvarTempoIsolate.<anonymous closure> (package:climatempo/log.dart:19:32)
+#1      _rootRunUnary (dart:async/zone.dart:1442:13)
+#2      _CustomZone.runUnary (dart:async/zone.dart:1335:19)
+#3      _CustomZone.runUnaryGuarded (dart:async/zone.dart:1244:7)
+#4      _BufferingStreamSubscription._sendData (dart:async/stream_impl.dart:341:11)
+#5      _BufferingStreamSubscription._add (dart:async/stream_impl.dart:271:7)
+#6      _SyncStreamControllerDispatch._sendData (dart:async/stream_controller.dart:774:19)
+#7      _StreamController._add (dart:async/stream_controller.dart:648:7)
+#8      _StreamController.add (dart:async/stream_controller.dart:596:5)
+#9      _RawReceivePortImpl._handleMessage (dart:isolate-patch/isolate_patch.dart:192:12)
+2022-03-13T22:54:20.667082 : type 'List<dynamic>' is not a subtype of type 'StackTrace'
+2022-03-13T22:54:20.667082 : #0      salvarTempoIsolate.<anonymous closure> (package:climatempo/log.dart:21:32)
+#1      _rootRunUnary (dart:async/zone.dart:1442:13)
+#2      _CustomZone.runUnary (dart:async/zone.dart:1335:19)
+#3      _CustomZone.runUnaryGuarded (dart:async/zone.dart:1244:7)
+#4      _BufferingStreamSubscription._sendData (dart:async/stream_impl.dart:341:11)
+#5      _BufferingStreamSubscription._add (dart:async/stream_impl.dart:271:7)
+#6      _SyncStreamControllerDispatch._sendData (dart:async/stream_controller.dart:774:19)
+#7      _StreamController._add (dart:async/stream_controller.dart:648:7)
+#8      _StreamController.add (dart:async/stream_controller.dart:596:5)
+#9      _RawReceivePortImpl._handleMessage (dart:isolate-patch/isolate_patch.dart:192:12)
+2022-03-13T22:55:14.830927 : type 'String' is not a subtype of type 'StackTrace'
+2022-03-13T22:55:14.830927 : #0      salvarTempoIsolate.<anonymous closure> (package:climatempo/log.dart:20:42)
+#1      _rootRunUnary (dart:async/zone.dart:1442:13)
+#2      _CustomZone.runUnary (dart:async/zone.dart:1335:19)
+#3      _CustomZone.runUnaryGuarded (dart:async/zone.dart:1244:7)
+#4      _BufferingStreamSubscription._sendData (dart:async/stream_impl.dart:341:11)
+#5      _BufferingStreamSubscription._add (dart:async/stream_impl.dart:271:7)
+#6      _SyncStreamControllerDispatch._sendData (dart:async/stream_controller.dart:774:19)
+#7      _StreamController._add (dart:async/stream_controller.dart:648:7)
+#8      _StreamController.add (dart:async/stream_controller.dart:596:5)
+#9      _RawReceivePortImpl._handleMessage (dart:isolate-patch/isolate_patch.dart:192:12)

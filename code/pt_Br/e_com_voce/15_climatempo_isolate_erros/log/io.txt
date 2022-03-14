@@ -1,0 +1,4 @@
+2022-03-13T22:55:49.667759 : Erro ao salvar tempo
+2022-03-13T22:55:49.667759 : #0      salvarTempo (package:climatempo/log.dart:36:3)
+#1      _delayEntrypointInvocation.<anonymous closure> (dart:isolate-patch/isolate_patch.dart:300:17)
+#2      _RawReceivePortImpl._handleMessage (dart:isolate-patch/isolate_patch.dart:192:12)

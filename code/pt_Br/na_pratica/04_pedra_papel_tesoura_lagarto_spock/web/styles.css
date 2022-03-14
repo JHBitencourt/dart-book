@@ -1,0 +1,71 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+h2, h4 {
+    text-align: center;
+}
+
+#opcoes {
+    text-align: center;
+}
+
+.opcao {
+    padding: 10px;
+}
+
+#resultado {
+    text-align: center;
+    margin: 20px;
+}
+
+.venceu {
+    background-color: #FFFFFF;
+    padding: 5px 10px;
+    border: 2px solid #73D973;
+    border-radius: 5px;
+    font-weight: bold;
+    color: #73D973;
+}
+
+.perdeu {
+    background-color: #FFFFFF;
+    padding: 5px 10px;
+    border: 2px solid #FF6F6F;
+    border-radius: 5px;
+    font-weight: bold;
+    color: #FF6F6F;
+}
+
+.empatou {
+    background-color: #FFFFFF;
+    padding: 5px 10px;
+    border: 2px solid #E06FFF;
+    border-radius: 5px;
+    font-weight: bold;
+    color: #E06FFF;
+}
+
+button {
+    background-color: #FFFFFF;
+    border: 2px solid #008CBA;
+    border-radius: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+    color: #008CBA;
+}
+
+button:hover {
+    background-color: #008CBA;
+    color: white;
+}
+
+.clicavel:hover {
+    cursor: pointer;
+}

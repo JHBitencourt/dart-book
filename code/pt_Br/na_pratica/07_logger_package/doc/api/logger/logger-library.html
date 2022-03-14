@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, user-scalable=no">
+  <meta name="description" content="logger library API docs, for the Dart programming language.">
+  <title>logger library - Dart API</title>
+
+
+  
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,300;0,400;0,500;0,700;1,400&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  
+  <link rel="stylesheet" href="../static-assets/github.css?v1">
+  <link rel="stylesheet" href="../static-assets/styles.css?v1">
+  <link rel="icon" href="../static-assets/favicon.png?v1">
+
+  
+</head>
+
+
+<body data-base-href="../"
+      data-using-base-href="false">
+
+<div id="overlay-under-drawer"></div>
+
+<header id="title">
+  <button id="sidenav-left-toggle" type="button">&nbsp;</button>
+  <ol class="breadcrumbs gt-separated dark hidden-xs">
+    <li><a href="../index.html">logger</a></li>
+    <li class="self-crumb">logger library</li>
+  </ol>
+  <div class="self-name">logger</div>
+  <form class="search navbar-right" role="search">
+    <input type="text" id="search-box" autocomplete="off" disabled class="form-control typeahead" placeholder="Loading search...">
+  </form>
+</header>
+
+<main>
+
+
+  <div id="dartdoc-main-content" class="main-content">
+      <div>
+<h1><span class="kind-library">logger</span> library 
+    <a href="https://dart.dev/null-safety" class="feature feature-null-safety" title="Supports the null safety language feature.">Null safety</a>
+ 
+</h1></div>
+
+    
+
+
+    <section class="summary offset-anchor" id="classes">
+      <h2>Classes</h2>
+
+      <dl>
+        <dt id="Logger">
+  <span class="name "><a href="../logger/Logger-class.html">Logger</a></span> 
+
+</dt>
+<dd>
+  Controla a impressão de logs, feitas através do <a href="../logger/Logger/printer.html">printer</a>.
+Imprime logs de acordo com o <a href="../logger/Logger/nivel.html">nivel</a> informado. 
+</dd>
+
+        <dt id="Printer">
+  <span class="name "><a href="../logger/Printer-class.html">Printer</a></span> 
+
+</dt>
+<dd>
+  Uma impressora de logs utilizada por <a href="../logger/Logger-class.html">Logger</a> que funciona em todas
+as plataformas. 
+</dd>
+
+      </dl>
+    </section>
+
+
+
+    <section class="summary offset-anchor" id="constants">
+      <h2>Constants</h2>
+
+      <dl class="properties">
+        <dt id="ansiCores" class="constant">
+  <span class="name "><a href="../logger/ansiCores-constant.html">ansiCores</a></span>
+  <span class="signature">&#8594; const <a href="https://api.dart.dev/stable/2.16.0/dart-core/Map-class.html">Map</a><span class="signature">&lt;<wbr><span class="type-parameter"><a href="../logger/Cores.html">Cores</a></span>, <span class="type-parameter"><a href="https://api.dart.dev/stable/2.16.0/dart-core/String-class.html">String</a></span>&gt;</span></span>
+  
+
+</dt>
+<dd>
+  Map com o código ANSI utilizado para personalizar as cores de fonte no terminal. 
+  
+
+  <div>
+    <span class="signature"><code>{Cores.vermelho : &#39;\x1b[31m&#39;, Cores.verde : &#39;\x1b[32m&#39;, Cores.azul : &#39;\x1b[36m&#39;}</code></span>
+  </div>
+</dd>
+
+        <dt id="resetarCor" class="constant">
+  <span class="name "><a href="../logger/resetarCor-constant.html">resetarCor</a></span>
+  <span class="signature">&#8594; const <a href="https://api.dart.dev/stable/2.16.0/dart-core/String-class.html">String</a></span>
+  
+
+</dt>
+<dd>
+  Código ANSI utilizado para resetar a cor da fonte no terminal. 
+  
+
+  <div>
+    <span class="signature"><code>&#39;\x1b[m&#39;</code></span>
+  </div>
+</dd>
+
+      </dl>
+    </section>
+
+
+
+    <section class="summary offset-anchor" id="enums">
+      <h2>Enums</h2>
+
+      <dl>
+        <dt id="Cores">
+  <span class="name "><a href="../logger/Cores.html">Cores</a></span> 
+
+</dt>
+<dd>
+  Enum com as cores utilizadas para personalizar a fonte de log no temrinal. 
+</dd>
+
+        <dt id="Nivel">
+  <span class="name "><a href="../logger/Nivel.html">Nivel</a></span> 
+
+</dt>
+<dd>
+  Controla o <a href="../logger/Nivel.html">Nivel</a> permitido do log para ser impresso, quanto mais crítico
+mais restrito é, e menos níveis são impressos.
+Abaixo as opções ordenadas pelo menos crítico: <a href="../logger/Nivel.html">[...]</a>
+</dd>
+
+      </dl>
+    </section>
+
+
+
+  </div> <!-- /.main-content -->
+
+  <div id="dartdoc-sidebar-left" class="sidebar sidebar-offcanvas-left">
+    <header id="header-search-sidebar" class="hidden-l">
+  <form class="search-sidebar" role="search">
+    <input type="text" id="search-sidebar" autocomplete="off" disabled class="form-control typeahead" placeholder="Loading search...">
+  </form>
+</header>
+
+<ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
+  <li><a href="../index.html">logger</a></li>
+  <li class="self-crumb">logger library</li>
+</ol>
+
+
+    <h5><span class="package-name">logger</span> <span class="package-kind">package</span></h5>
+    <ol>
+      <li class="section-title">Libraries</li>
+      <li><a href="../logger/logger-library.html">logger</a></li>
+</ol>
+
+  </div>
+
+  <div id="dartdoc-sidebar-right" class="sidebar sidebar-offcanvas-right">
+    <h5>logger library</h5>
+    <ol>
+  <li class="section-title"><a href="../logger/logger-library.html#classes">Classes</a></li>
+  <li><a href="../logger/Logger-class.html">Logger</a></li>
+  <li><a href="../logger/Printer-class.html">Printer</a></li>
+
+
+
+  <li class="section-title"><a href="../logger/logger-library.html#constants">Constants</a></li>
+  <li><a href="../logger/ansiCores-constant.html">ansiCores</a></li>
+  <li><a href="../logger/resetarCor-constant.html">resetarCor</a></li>
+
+
+
+  <li class="section-title"><a href="../logger/logger-library.html#enums">Enums</a></li>
+  <li><a href="../logger/Cores.html">Cores</a></li>
+  <li><a href="../logger/Nivel.html">Nivel</a></li>
+
+
+</ol>
+
+  </div><!--/sidebar-offcanvas-right-->
+
+</main>
+
+<footer>
+  <span class="no-break">
+    logger
+      1.0.0
+  </span>
+
+  
+</footer>
+
+
+
+<script src="../static-assets/highlight.pack.js?v1"></script>
+<script src="../static-assets/script.js?v1"></script>
+
+
+
+</body>
+
+</html>
+
