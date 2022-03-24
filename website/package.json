@@ -1,0 +1,33 @@
+{
+  "name": "dart-book",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Dart Book",
+  "author": "Julio Bitencourt",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "@styled-icons/boxicons-logos": "^10.38.0",
+    "babel-plugin-styled-components": "^2.0.2",
+    "book-cover-3d": "^1.1.2",
+    "gatsby": "^4.7.1",
+    "gatsby-plugin-image": "^2.7.0",
+    "gatsby-plugin-react-svg": "^3.1.0",
+    "gatsby-plugin-sharp": "^4.7.0",
+    "gatsby-plugin-styled-components": "^5.7.0",
+    "gatsby-source-filesystem": "^4.7.0",
+    "gatsby-transformer-sharp": "^4.7.0",
+    "react": "^17.0.1",
+    "react-day-and-night-toggle": "^1.0.18",
+    "react-dom": "^17.0.1",
+    "styled-components": "^5.3.3"
+  }
+}
