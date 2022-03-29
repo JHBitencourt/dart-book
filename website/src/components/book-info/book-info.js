@@ -3,7 +3,6 @@ import { useTheme } from "styled-components";
 import { StaticImage } from "gatsby-plugin-image";
 import * as S from "./styles";
 import * as G from "../layout/styles";
-import { BookCover } from "book-cover-3d";
 
 const BookInfo = () => {
   const theme = useTheme();
@@ -14,7 +13,7 @@ const BookInfo = () => {
         <G.SplitColumnFlex>
           <S.Content>
             <G.Title>O guia de Dart</G.Title>
-            <G.Subtitle>A história, os fundamentos, os conceitos avançados, e tudo mais.</G.Subtitle>
+            <G.Subtitle>A história, os fundamentos, os conceitos avançados e tudo mais.</G.Subtitle>
             <G.Paragraph>
               Disponível impresso ou em seu leitor favorito (.pdf, .epub, .mob).
             </G.Paragraph>
@@ -34,11 +33,12 @@ const BookInfo = () => {
               </G.Button>
             </p>
           </S.Content>
-          <S.Book>
-            <BookCover height={300} width={200} rotate={25} bgColor="#000">
-              <StaticImage src="../../images/guia.jpeg" alt="Capa do livro" />
-            </BookCover>
-          </S.Book>
+
+          <S.BookCover>
+            <S.Book>
+              <StaticImage height={300} width={200} src="../../images/cover.jpeg" alt="Capa do livro" />
+            </S.Book>
+          </S.BookCover>
         </G.SplitColumnFlex>
       </G.Boundary>
     </G.Section>

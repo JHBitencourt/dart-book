@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `O guia de Dart`,
     siteUrl: `https://www.dartguide.dev`,
-    description: `A história, os fundamentos, os conceitos avançados, e tudo mais.`,
+    description: `A história, os fundamentos, os conceitos avançados e tudo mais.`,
     image: `/green_guy.png`
   },
   plugins: [

@@ -18,7 +18,6 @@
   "dependencies": {
     "@styled-icons/boxicons-logos": "^10.38.0",
     "babel-plugin-styled-components": "^2.0.2",
-    "book-cover-3d": "^1.1.2",
     "gatsby": "^4.7.1",
     "gatsby-plugin-google-tagmanager": "^4.10.2",
     "gatsby-plugin-image": "^2.7.0",
