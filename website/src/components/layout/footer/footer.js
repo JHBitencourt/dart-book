@@ -15,9 +15,17 @@ const Footer = (props) => {
       <G.DefaultText>
         Até mais, e obrigado pelos peixes! <S.Svg>{svg}</S.Svg>
       </G.DefaultText>
-      <G.Link href="https://juliobitencourt.com/" target="_blank" rel="noreferrer" textColor="#35DF91">
-        Julio Bitencourt
-      </G.Link>
+      <G.DefaultText>
+        Autoria de&nbsp;
+        <G.Link href="https://juliobitencourt.com/" target="_blank" rel="noreferrer" textColor="#35DF91">
+          Julio Bitencourt
+        </G.Link>
+        &nbsp;&nbsp;|&nbsp;&nbsp;Arte da capa por&nbsp;
+        <G.Link href="https://antunesketch.artstation.com/" target="_blank" rel="noreferrer" textColor="#35DF91">
+          @antunesketchreal
+        </G.Link>
+      </G.DefaultText>
+      &nbsp;
     </S.Footer>
   );
 };
