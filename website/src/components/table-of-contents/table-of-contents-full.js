@@ -318,7 +318,6 @@ const TableOfContentsFull = () => {
                     <ol type="a">
                       <li>Um jeito síncrono de trabalhar com assíncrono?</li>
                       <li>Tratando erros com async await</li>
-                      <li></li>
                     </ol>
                     <li>Completer</li>
                     <li>Se liga aí</li>
