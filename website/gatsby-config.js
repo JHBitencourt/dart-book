@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `O guia do programador de Dart`,
-    siteUrl: `https://www.mydartbook.com.br`,
-    description: `Pegue sua toalha e embarque nessa viagem.`,
+    title: `O guia de Dart`,
+    siteUrl: `https://www.dartguide.dev`,
+    description: `A história, os fundamentos, os conceitos avançados, e tudo mais.`,
     image: `/green_guy.png`
   },
   plugins: [
@@ -19,6 +19,15 @@ module.exports = {
     `gatsby-plugin-image`,
     `gatsby-plugin-sharp`,
     `gatsby-transformer-sharp`,
+    {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: `Dart Guide Book`,
+        short_name: `DartGuide`,
+        display: `standalone`,
+        icon: `src/images/green_guy.png`
+      },
+    },
     {
       resolve: "gatsby-plugin-react-svg",
       options: {

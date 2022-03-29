@@ -18,7 +18,7 @@ const TableOfContentsFull = () => {
 
         <S.BoxTimeline>
           <S.Container>
-            <G.Paragraph textAlign="start">
+            <S.ContainerTOC>
               <ol>
                 <li>
                   <b><span><b>Hello, Dart!</b></span></b>
@@ -470,7 +470,7 @@ const TableOfContentsFull = () => {
                   </ol>
                 </li>
               </ol>
-            </G.Paragraph>
+            </S.ContainerTOC>
           </S.Container>
         </S.BoxTimeline>
       </G.Boundary>

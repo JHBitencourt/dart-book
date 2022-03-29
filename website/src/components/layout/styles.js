@@ -35,6 +35,12 @@ export const Link = styled.a`
   `};
 `;
 
+export const LinkButton = styled.a`
+  ${({ theme }) => css`
+    font-size: ${theme.font.size.default};
+  `};
+`;
+
 export const Title = styled.h1`
   ${({ theme }) => css`
     font-size: ${theme.font.size.biggest};

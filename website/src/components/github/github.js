@@ -11,13 +11,19 @@ const Github = () => {
       <G.Boundary>
         <G.AlignTitle>
           <S.ButtonArea>
-            <G.Button
-              color={theme.dark === "true" ? "#FFF" : "#37475A"}
-              hoverColor={theme.dark === "true" ? "#F4F4F4" : "#212B36"}
-              textColor={theme.dark === "true" ? "#37475A" : "#FFF"}
+            <G.LinkButton
+              target="_blank"
+              el="noreferrer noopener"
+              href="https://github.com/JHBitencourt/dart-book"
             >
-              Acesse o Github do livro
-            </G.Button>
+              <G.Button
+                color={theme.dark === "true" ? "#FFF" : "#37475A"}
+                hoverColor={theme.dark === "true" ? "#F4F4F4" : "#212B36"}
+                textColor={theme.dark === "true" ? "#37475A" : "#FFF"}
+              >
+                Acesse o Github do livro
+              </G.Button>
+            </G.LinkButton>
           </S.ButtonArea>
         </G.AlignTitle>
       </G.Boundary>

@@ -1,4 +1,4 @@
-# O guia do programador de Dart
+# O guia de Dart
 
 Repositório com todos os códigos de exemplos do livro.
 

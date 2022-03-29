@@ -13,8 +13,8 @@ const BookInfo = () => {
       <G.Boundary>
         <G.SplitColumnFlex>
           <S.Content>
-            <G.Title>O guia do programador de Dart</G.Title>
-            <G.Subtitle>Pegue sua toalha e embarque nessa viagem</G.Subtitle>
+            <G.Title>O guia de Dart</G.Title>
+            <G.Subtitle>A história, os fundamentos, os conceitos avançados, e tudo mais.</G.Subtitle>
             <G.Paragraph>
               Disponível impresso ou em seu leitor favorito (.pdf, .epub, .mob).
             </G.Paragraph>

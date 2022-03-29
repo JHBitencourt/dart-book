@@ -5,7 +5,7 @@ import TableOfContentsFull from "../components/table-of-contents/table-of-conten
 const TableOfContentsPage = () => {
   return (
     <Layout primary>
-      <title>Dart book</title>
+      <title>O guia de Dart</title>
       <TableOfContentsFull />
     </Layout>
   );

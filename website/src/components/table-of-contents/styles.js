@@ -114,5 +114,17 @@ export const Container = styled.div`
     color: ${theme.textColor};
     background-color: ${theme.containerColor};
     border-radius: 6px;
+    text-align: start;
   `};
+`;
+
+export const ContainerTOC = styled.div`
+  ${({ theme }) => css`
+    font-size: ${theme.font.size.medium};
+    color: ${theme.textColor};
+    line-height: 1.4;
+    margin: 0px;
+    font-weight: 300;
+    text-align: start;
+  `}
 `;

@@ -9,7 +9,7 @@ import TableOfContents from "../components/table-of-contents/table-of-contents";
 const IndexPage = () => {
   return (
     <Layout>
-      <title>Dart book</title>
+      <title>O guia de Dart</title>
       <BookInfo />
       <Audience />
       <Author />
