@@ -31,7 +31,7 @@ export const Timeline = styled.div`
 
 export const ContainerLeftTimeline = styled.div`
   ${({ theme }) => css`
-    padding: 10px 40px;
+    padding: 10px 24px;
     position: relative;
     background-color: inherit;
     width: 50%;
@@ -67,7 +67,7 @@ export const ContainerLeftTimeline = styled.div`
 
 export const ContainerRightTimeline = styled.div`
   ${({ theme }) => css`
-    padding: 10px 40px;
+    padding: 10px 24px;
     position: relative;
     background-color: inherit;
     width: 50%;
