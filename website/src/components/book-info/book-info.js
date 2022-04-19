@@ -13,11 +13,13 @@ const BookInfo = () => {
         <G.SplitColumnFlex>
           <S.Content>
             <G.Title>O guia de Dart</G.Title>
-            <G.Subtitle>A história, os fundamentos, os conceitos avançados e tudo mais.</G.Subtitle>
+            <G.Subtitle>Fundamentos, prática, conceitos avançados e <u>tudo mais</u>.</G.Subtitle>
             <G.Paragraph>
               Disponível impresso ou em seu leitor favorito (.pdf, .epub, .mob).
             </G.Paragraph>
-            <G.Paragraph>Garanta a sua cópia:</G.Paragraph>
+            <G.Paragraph>Garanta a sua cópia: </G.Paragraph>
+            
+            <G.DefaultText><b><span style={{ color: "red", "font-size": "30px" }}>&#9888;</span></b> [Publicação será feita em breve, nos próximos dias]</G.DefaultText>
 
             <p>
               <G.Button color="#FF9900" hoverColor="#E78B00" textColor="#FFF">

@@ -15,7 +15,7 @@ const ErrorContent = () => {
         <br />
         <br />
 
-        Esta página não existe :/
+        <G.Paragraph>Esta página não existe :/ </G.Paragraph>
       </G.Boundary>
     </G.Section>
   );
