@@ -38,7 +38,7 @@ const BookInfo = () => {
 
           <S.BookCover>
             <S.Book>
-              <StaticImage height={300} width={200} src="../../images/cover.jpeg" alt="Capa do livro" />
+              <StaticImage height={340} width={240} src="../../images/cover.png" alt="Capa do livro" />
             </S.Book>
           </S.BookCover>
         </G.SplitColumnFlex>
