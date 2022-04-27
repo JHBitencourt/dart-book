@@ -50,7 +50,7 @@ const Author = () => {
           >
             <S.Avatar>
               <StaticImage
-                src="../../images/JHB.jpeg"
+                src="../../images/JHB.png"
                 alt="Capa do livro"
                 width={150}
                 height={150}
