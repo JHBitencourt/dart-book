@@ -18,27 +18,31 @@ const BookInfo = () => {
               Disponível impresso ou em seu leitor favorito (.pdf, .epub, .mob).
             </G.Paragraph>
             <G.Paragraph>Garanta a sua cópia: </G.Paragraph>
-            
-            <G.DefaultText><b><span style={{ color: "red", "font-size": "30px" }}>&#9888;</span></b> [Publicação no Kindle ainda sendo processada]</G.DefaultText>
 
             <p>
-            <G.LinkButton
-              target="_blank"
-              el="noreferrer noopener"
-              href="https://www.casadocodigo.com.br/products/livro-dart"
-            >
-              <G.Button color="#FF9900" hoverColor="#E78B00" textColor="#FFF">
-                Casa do Código
-              </G.Button>
-            </G.LinkButton>
-
-              <G.Button
-                color={theme.dark === "true" ? "#FFF" : "#37475A"}
-                hoverColor={theme.dark === "true" ? "#F4F4F4" : "#212B36"}
-                textColor={theme.dark === "true" ? "#37475A" : "#FFF"}
+              <G.LinkButton
+                target="_blank"
+                el="noreferrer noopener"
+                href="https://www.casadocodigo.com.br/products/livro-dart"
               >
-                <span>Amazon Kindle</span>
-              </G.Button>
+                <G.Button color="#FF9900" hoverColor="#E78B00" textColor="#FFF">
+                  Casa do Código
+                </G.Button>
+              </G.LinkButton>
+
+              <G.LinkButton
+                target="_blank"
+                el="noreferrer noopener"
+                href="https://www.amazon.com.br/dp/B09Z33JMKV/"
+              >
+                <G.Button
+                  color={theme.dark === "true" ? "#FFF" : "#37475A"}
+                  hoverColor={theme.dark === "true" ? "#F4F4F4" : "#212B36"}
+                  textColor={theme.dark === "true" ? "#37475A" : "#FFF"}
+                >
+                  <span>Amazon Kindle</span>
+                </G.Button>
+              </G.LinkButton>
             </p>
           </S.Content>
 
