@@ -1,8 +1,17 @@
-# O guia de Dart
+<p align="center" width="100%">
+    <img width="50%" src="https://github.com/JHBitencourt/dart-book/blob/master/website/src/images/promotional_cover_big.png">
+</p>
 
-Repositório com todos os códigos de exemplos do livro.
 
-#### Para acesso rápido:
+
+- Informações do livro em [dartguide.dev](http://dartguide.dev)
+- [Sumário completo](https://dartguide.dev/table-of-contents/)
+- Página do livro na [Casa do Código](https://www.casadocodigo.com.br/products/livro-dart)
+
+Neste repositório você encontrará todos os códigos de exemplos do livro.
+Assim como todas as respostas de desafios propostos organizadas nas [issues](https://github.com/JHBitencourt/dart-book/issues).
+
+#### Para acesso rápido aos códigos:
 
 1. [Sessão "Ná Prática"](https://github.com/JHBitencourt/dart-book/tree/master/code/pt_Br/na_pratica)
 2. [Sessão "É com você"](https://github.com/JHBitencourt/dart-book/tree/master/code/pt_Br/e_com_voce)
