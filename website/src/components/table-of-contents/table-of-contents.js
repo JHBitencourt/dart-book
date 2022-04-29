@@ -61,14 +61,14 @@ const TableOfContents = () => {
                 </G.Paragraph>
                 <G.Paragraph>
                   Veremos sobre concorrência e os conceitos de programação assíncrona, além de entender a importância 
-                  do <i>event loop</i> pros trás disso tudo.
+                  do <i>event loop</i> por trás disso tudo.
                 </G.Paragraph>
                 <G.Paragraph>
-                  Em seguida vamos conhecer o mundo das <i>streams</i> e como elas são úteis em várias situação.
+                  Em seguida vamos conhecer o mundo das <i>streams</i> e como elas são úteis em várias situações.
                 </G.Paragraph>
                 <G.Paragraph>
                   Também nos aprofundaremos no funcionamento das <i>isolates</i> e <i>zones</i>. Dois conceitos pouco
-                  explorados e até conhecidos pelas pessoas que trabalham com a linguagem.
+                  explorados e conhecidos pelas pessoas que trabalham com a linguagem.
                 </G.Paragraph>
                 <G.Paragraph>
                   Por fim, com um exemplo prático, aprenderemos a manipular arquivos utilizando todos os conceitos aprendidos.
