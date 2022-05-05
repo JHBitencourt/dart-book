@@ -23,7 +23,7 @@ const BookInfo = () => {
               <G.LinkButton
                 target="_blank"
                 el="noreferrer noopener"
-                href="https://www.casadocodigo.com.br/products/livro-dart"
+                href="https://parceiro.casadocodigo.com.br/r/46p8/livro-dart"
               >
                 <G.Button color="#FF9900" hoverColor="#E78B00" textColor="#FFF">
                   Casa do Código
