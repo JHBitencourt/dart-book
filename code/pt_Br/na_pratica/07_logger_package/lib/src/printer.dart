@@ -18,7 +18,7 @@ class Printer {
   /// É possível personalizar a [cor] do texto impresso.
   void log(Cores cor, Object object) {
     printer.log(
-      '${ansiCores[cor]}'
+      '${cor.ansi}'
       '$inicio$object$fim'
       '$resetarCor',
     );

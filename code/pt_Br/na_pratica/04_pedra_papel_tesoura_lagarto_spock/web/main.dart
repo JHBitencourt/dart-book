@@ -1,13 +1,13 @@
 import 'dart:html';
-
+import 'package:web/web.dart' as web;
 import 'package:jogo/src/partida.dart';
 import 'package:jogo/src/resultado.dart';
 
-late DivElement divOpcoes;
-late DivElement divResultado;
+late web.HTMLDivElement divOpcoes;
+late web.HTMLDivElement divResultado;
 
 bool jogando = true;
-late Resultado resultado;
+late Resumo resumo;
 
 void main() {
   inicializarReferencias();
@@ -15,80 +15,53 @@ void main() {
 
   for (final opcao in opcoes) {
     divOpcoes.append(
-      ImageButtonInputElement()
-        ..onClick.listen(
-          (MouseEvent e) {
-            if (jogando) {
-              resultado = partida.iniciar(humano: opcao);
-              jogando = false;
-              mostrarResultado(resultado);
-            }
-          },
-        )
+      web.HTMLImageElement()
         ..className = 'opcao'
         ..src = 'images/$opcao.png'
-        ..height = 120,
+        ..height = 120
+        ..onClick.listen(
+          (web.MouseEvent e) {
+            if (jogando) {
+              resumo = partida.iniciar(humano: opcao);
+              jogando = false;
+              mostrarResultado(resumo);
+            }
+          },
+        ),
     );
   }
 }
 
-void mostrarResultado(Resultado resultado) {
-  String mensagem;
-  String classeCss;
-  switch (resultado.resultadoType) {
-    case ResultadoType.empate:
-      classeCss = 'empatou';
-      mensagem = 'Empatou..';
-      break;
-    case ResultadoType.vitoria:
-      classeCss = 'venceu';
-      mensagem = 'Você ganhou :D';
-      break;
-    case ResultadoType.derrota:
-      classeCss = 'perdeu';
-      mensagem = 'Você perdeu :/';
-      break;
-  }
+void mostrarResultado(Resumo resumo) {
   divResultado.append(
-    SpanElement()
-      ..className = classeCss
-      ..text = mensagem,
+    web.HTMLSpanElement()
+      ..className = resumo.resultado.classeCss
+      ..text = resumo.resultado.mensagem,
   );
+
   adicionarEspaco();
-  divResultado.append(SpanElement()..text = resultado.resumo);
+  divResultado.append(web.HTMLSpanElement()..text = resumo.mensagem);
   adicionarEspaco();
   divResultado.append(
-    ButtonElement()
+    web.HTMLButtonElement()
       ..text = 'Jogar novamente!'
       ..onClick.listen(jogarNovamente),
   );
 }
 
 void adicionarEspaco() {
-  divResultado.append(BRElement());
-  divResultado.append(BRElement());
+  divResultado.append(web.HTMLBRElement());
+  divResultado.append(web.HTMLBRElement());
 }
 
-void jogarNovamente(MouseEvent e) {
+void jogarNovamente(web.MouseEvent e) {
   jogando = true;
-  divResultado.children.clear();
+  while(divResultado.firstChild != null) {
+    divResultado.removeChild(divResultado.firstChild!);
+  }
 }
 
 void inicializarReferencias() {
-  divOpcoes = querySelector('#opcoes') as DivElement;
-  divResultado = querySelector('#resultado') as DivElement;
-}
-
-Partida configurarPartida() {
-  return Partida()
-    ..criarRegra(tesoura, acao: 'corta', perdedor: papel)
-    ..criarRegra(tesoura, acao: 'decapita', perdedor: lagarto)
-    ..criarRegra(papel, acao: 'cobre', perdedor: pedra)
-    ..criarRegra(papel, acao: 'refuta', perdedor: spock)
-    ..criarRegra(pedra, acao: 'esmaga', perdedor: lagarto)
-    ..criarRegra(pedra, acao: 'quebra', perdedor: tesoura)
-    ..criarRegra(lagarto, acao: 'envenena', perdedor: spock)
-    ..criarRegra(lagarto, acao: 'come', perdedor: papel)
-    ..criarRegra(spock, acao: 'esmaga', perdedor: tesoura)
-    ..criarRegra(spock, acao: 'vaporiza', perdedor: pedra);
+  divOpcoes = web.document.querySelector('#opcoes') as web.HTMLDivElement;
+  divResultado = web.document.querySelector('#resultado') as web.HTMLDivElement;
 }

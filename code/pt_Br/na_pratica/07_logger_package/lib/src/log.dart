@@ -1,17 +1,18 @@
 import 'printer.dart';
 
-/// Enum com as cores utilizadas para personalizar a fonte de log no temrinal.
-enum Cores { verde, vermelho, azul }
+/// Enum com as cores utilizadas para personalizar a fonte de log no terminal.
+enum Cores {
+  verde('\x1b[32m'),
+  vermelho('\x1b[31m'),
+  azul('\x1b[36m');
+
+  const Cores(this.ansi);
+
+  final String ansi;
+}
 
 /// Código ANSI utilizado para resetar a cor da fonte no terminal.
 const resetarCor = '\x1b[m';
-
-/// Map com o código ANSI utilizado para personalizar as cores de fonte no terminal.
-const ansiCores = {
-  Cores.vermelho: '\x1b[31m',
-  Cores.verde: '\x1b[32m',
-  Cores.azul: '\x1b[36m',
-};
 
 /// Controla o [Nivel] permitido do log para ser impresso, quanto mais crítico
 /// mais restrito é, e menos níveis são impressos.

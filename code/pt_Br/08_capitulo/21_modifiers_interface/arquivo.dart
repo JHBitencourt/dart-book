@@ -1,0 +1,1 @@
+interface class A {}

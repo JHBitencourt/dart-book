@@ -2,11 +2,11 @@ abstract class A {
   String ola();
 }
 
-class B {
+mixin B {
   String ola() => 'Olá B';
 }
 
-class C {
+mixin C {
   String ola() => 'Olá C';
 }
 

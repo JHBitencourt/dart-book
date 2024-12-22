@@ -4,7 +4,8 @@ import 'dart:collection';
 /// A ordem dos elementos é de acordo com a implementação do compareTo de [Comparable].
 void main() {
   final vogais = ['e', 'i', 'a', 'o', 'u'];
-  vogais.sort(); // > {11, 35, 4, 44}
+  vogais.sort();
+  print(vogais); // > [a, e, i, o, u]
 
   final megasena = SplayTreeSet<String>();
   megasena.addAll(['44', '35', '4', '11', '4']);

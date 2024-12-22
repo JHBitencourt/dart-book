@@ -5,6 +5,9 @@ void main() async {
   print('Executando na isolate: {${mainIsolate.debugName}}');
   await Isolate.spawn(funcaoEntrada, 'Olá nova Isolate.',
       debugName: 'novaIsolate');
+
+
+      Isolate.run(computation)
 }
 
 void funcaoEntrada(String parametro) {

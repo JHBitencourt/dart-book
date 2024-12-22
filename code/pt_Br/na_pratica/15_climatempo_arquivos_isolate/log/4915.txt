@@ -13,3 +13,13 @@ Cidade:  Florianópolis,  SC  -  BR
 2022-03-13 21:45:02.000
 Temperatura:  20  -  Sensação:  20
 Umidade:  100  -  Velocidade  do  Vento:  17
+===
+Cidade:  Florianópolis,  SC  -  BR
+2024-12-21 17:20:45.000
+Temperatura:  26  -  Sensação:  27
+Umidade:  74  -  Velocidade  do  Vento:  24
+===
+Cidade:  Florianópolis,  SC  -  BR
+2024-12-21 17:20:45.000
+Temperatura:  26  -  Sensação:  27
+Umidade:  74  -  Velocidade  do  Vento:  24

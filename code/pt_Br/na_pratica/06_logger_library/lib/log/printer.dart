@@ -8,7 +8,7 @@ class Printer {
 
   void _log(_Cores cor, Object object) {
     stdout.writeln(
-      '${_ansiCores[cor]}'
+      '${cor.ansi}'
       '$inicio$object$fim'
       '$_resetarCor',
     );

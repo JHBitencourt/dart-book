@@ -7,4 +7,4 @@ List<Future<String>> listaFuture() => <int>[2, 1, 3]
     .map((s) => Future<String>.delayed(Duration(seconds: s), () => 'Tempo: $s'))
     .toList();
 
-Future<String> comErro() => Future<String>.error('Erro ao buscardados.');
+Future<String> comErro() => Future<String>.error('Erro ao buscar dados.');

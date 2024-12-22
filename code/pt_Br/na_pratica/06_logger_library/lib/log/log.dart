@@ -4,14 +4,17 @@ import 'dart:io';
 
 part 'printer.dart';
 
-enum _Cores { verde, vermelho, azul }
+enum _Cores {
+  verde('\x1b[32m'),
+  vermelho('\x1b[31m'),
+  azul('\x1b[36m');
+
+  const _Cores(this.ansi);
+
+  final String ansi;
+}
 
 const _resetarCor = '\x1b[m';
-const _ansiCores = {
-  _Cores.vermelho: '\x1b[31m',
-  _Cores.verde: '\x1b[32m',
-  _Cores.azul: '\x1b[36m',
-};
 
 enum Nivel { info, warning, error }
 

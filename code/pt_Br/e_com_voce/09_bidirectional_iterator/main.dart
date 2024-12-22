@@ -1,4 +1,5 @@
-class BidirectionalIteratorList<E> implements BidirectionalIterator {
+
+class BidirectionalIteratorList<E> {
   BidirectionalIteratorList(Iterable<E> iterable, {bool back = false})
       : _iterable = iterable,
         _length = iterable.length,
@@ -36,7 +37,7 @@ class BidirectionalIteratorList<E> implements BidirectionalIterator {
   }
 }
 
-main() {
+void main() {
   final risadas = ['kkk', 'haha', 'rsrs'];
 
   print('Ordem natural:');

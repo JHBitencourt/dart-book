@@ -27,7 +27,7 @@ class SingletonTres {
   static final SingletonTres instance = SingletonTres._();
 }
 
-main() {
+void main() {
   SingletonUm a = SingletonUm();
   SingletonUm b = SingletonUm();
   print('SingletonUm identical: ${identical(a, b)}');

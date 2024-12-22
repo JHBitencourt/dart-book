@@ -8,6 +8,7 @@ class ClimaTempo {
   final Cidade cidade;
   final Tempo tempo;
 
+  @override
   String toString() => '''
 Cidade:  ${cidade.nome},  ${cidade.estado}  -  ${cidade.pais}
 ${tempo.data}

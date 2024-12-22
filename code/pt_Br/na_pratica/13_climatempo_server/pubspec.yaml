@@ -1,17 +1,17 @@
 name: climatempo
 description: Aplicação CLI para consulta de clima.
-version: 1.0.0
+version: 0.0.1
 
 environment:
-  sdk: '>=2.16.0 <3.0.0'
+  sdk: ^3.5.1
 
 dependencies:
-  http: ^0.13.4
-  args: ^2.3.0
+  args: ^2.4.2
+  http: ^1.2.2
 
 dev_dependencies:
-  lints: ^1.0.0
-  test: ^1.16.0
-
+  lints: ^4.0.0
+  test: ^1.24.0
+  
 executables:
   climatempo: climatempo

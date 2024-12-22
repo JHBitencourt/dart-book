@@ -4,14 +4,14 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, user-scalable=no">
-  <meta name="description" content="API docs for the Logger constructor from the Class Logger class from the logger library, for the Dart programming language.">
-  <title>Logger constructor - Logger class - logger library - Dart API</title>
+  <meta name="description" content="API docs for the Logger constructor from Class Logger from the logger library, for the Dart programming language.">
+  <title>Logger constructor - Logger - logger library - Dart API</title>
 
 
   
   <link rel="preconnect" href="https://fonts.gstatic.com">
   <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,300;0,400;0,500;0,700;1,400&display=swap" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" rel="stylesheet">
   
   <link rel="stylesheet" href="../../static-assets/github.css?v1">
   <link rel="stylesheet" href="../../static-assets/styles.css?v1">
@@ -21,16 +21,15 @@
 </head>
 
 
-<body data-base-href="../../"
-      data-using-base-href="false">
+<body data-base-href="../../" data-using-base-href="false" class="light-theme">
 
 <div id="overlay-under-drawer"></div>
 
 <header id="title">
-  <button id="sidenav-left-toggle" type="button">&nbsp;</button>
+  <span id="sidenav-left-toggle" class="material-symbols-outlined" role="button" tabindex="0">menu</span>
   <ol class="breadcrumbs gt-separated dark hidden-xs">
     <li><a href="../../index.html">logger</a></li>
-    <li><a href="../../logger/logger-library.html">logger</a></li>
+    <li><a href="../../logger/logger-library.html">logger.dart</a></li>
     <li><a href="../../logger/Logger-class.html">Logger</a></li>
     <li class="self-crumb">Logger const constructor</li>
   </ol>
@@ -38,21 +37,34 @@
   <form class="search navbar-right" role="search">
     <input type="text" id="search-box" autocomplete="off" disabled class="form-control typeahead" placeholder="Loading search...">
   </form>
+  <div class="toggle" id="theme-button" title="Toggle brightness">
+    <label for="theme">
+      <input type="checkbox" id="theme" value="light-theme">
+      <span id="dark-theme-button" class="material-symbols-outlined">
+        dark_mode
+      </span>
+      <span id="light-theme-button" class="material-symbols-outlined">
+        light_mode
+      </span>
+    </label>
+  </div>
 </header>
-
 <main>
 
-
-  <div id="dartdoc-main-content" class="main-content">
+  <div
+      id="dartdoc-main-content"
+      class="main-content"
+      data-above-sidebar="logger&#47;Logger-class-sidebar.html"
+      data-below-sidebar="">
       <div>
 <h1><span class="kind-constructor">Logger</span> constructor 
-    <a href="https://dart.dev/null-safety" class="feature feature-null-safety" title="Supports the null safety language feature.">Null safety</a>
 </h1></div>
 
-    <section class="multi-line-signature">const
-      <span class="name ">Logger</span>(<wbr><ol class="parameter-list"><li><span class="parameter" id="-param-printer">{<span class="type-annotation"><a href="../../logger/Printer-class.html">Printer</a></span> <span class="parameter-name">printer</span> = <span class="default-value">const Printer()</span>, </span></li>
-<li><span class="parameter" id="-param-nivel"><span>required</span> <span class="type-annotation"><a href="../../logger/Nivel.html">Nivel</a></span> <span class="parameter-name">nivel</span>}</span></li>
-</ol>)
+    <section class="multi-line-signature">
+      const
+      <span class="name ">Logger</span>(<wbr>{<ol class="parameter-list"> <li><span class="parameter" id="-param-printer"><span class="type-annotation"><a href="../../logger/Printer-class.html">Printer</a></span> <span class="parameter-name">printer</span> = <span class="default-value">const Printer()</span>, </span></li>
+<li><span class="parameter" id="-param-nivel"><span>required</span> <span class="type-annotation"><a href="../../logger/Nivel.html">Nivel</a></span> <span class="parameter-name">nivel</span>, </span></li>
+</ol>})
     </section>
 
     
@@ -71,50 +83,23 @@
   </div> <!-- /.main-content -->
 
   <div id="dartdoc-sidebar-left" class="sidebar sidebar-offcanvas-left">
-    <header id="header-search-sidebar" class="hidden-l">
+    <!-- The search input and breadcrumbs below are only responsively visible at low resolutions. -->
+<header id="header-search-sidebar" class="hidden-l">
   <form class="search-sidebar" role="search">
     <input type="text" id="search-sidebar" autocomplete="off" disabled class="form-control typeahead" placeholder="Loading search...">
   </form>
 </header>
 
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-  <li><a href="../../index.html">logger</a></li>
-  <li><a href="../../logger/logger-library.html">logger</a></li>
-  <li><a href="../../logger/Logger-class.html">Logger</a></li>
-  <li class="self-crumb">Logger const constructor</li>
+    <li><a href="../../index.html">logger</a></li>
+    <li><a href="../../logger/logger-library.html">logger</a></li>
+    <li><a href="../../logger/Logger-class.html">Logger</a></li>
+    <li class="self-crumb">Logger const constructor</li>
 </ol>
 
 
     <h5>Logger class</h5>
-    <ol>
-
-    <li class="section-title"><a href="../../logger/Logger-class.html#constructors">Constructors</a></li>
-    <li><a href="../../logger/Logger/Logger.html">Logger</a></li>
-
-
-    <li class="section-title">
-      <a href="../../logger/Logger-class.html#instance-properties">Properties</a>
-    </li>
-    <li class="inherited"><a href="https://api.dart.dev/stable/2.16.0/dart-core/Object/hashCode.html">hashCode</a></li>
-    <li><a href="../../logger/Logger/nivel.html">nivel</a></li>
-    <li><a href="../../logger/Logger/printer.html">printer</a></li>
-    <li class="inherited"><a href="https://api.dart.dev/stable/2.16.0/dart-core/Object/runtimeType.html">runtimeType</a></li>
-
-    <li class="section-title"><a href="../../logger/Logger-class.html#instance-methods">Methods</a></li>
-    <li><a href="../../logger/Logger/error.html">error</a></li>
-    <li><a href="../../logger/Logger/info.html">info</a></li>
-    <li class="inherited"><a href="https://api.dart.dev/stable/2.16.0/dart-core/Object/noSuchMethod.html">noSuchMethod</a></li>
-    <li class="inherited"><a href="https://api.dart.dev/stable/2.16.0/dart-core/Object/toString.html">toString</a></li>
-    <li><a href="../../logger/Logger/warning.html">warning</a></li>
-
-    <li class="section-title inherited"><a href="../../logger/Logger-class.html#operators">Operators</a></li>
-    <li class="inherited"><a href="https://api.dart.dev/stable/2.16.0/dart-core/Object/operator_equals.html">operator ==</a></li>
-
-
-
-
-</ol>
-
+    <div id="dartdoc-sidebar-left-content"></div>
   </div><!--/.sidebar-offcanvas-left-->
 
   <div id="dartdoc-sidebar-right" class="sidebar sidebar-offcanvas-right">
@@ -134,7 +119,7 @@
 
 
 <script src="../../static-assets/highlight.pack.js?v1"></script>
-<script src="../../static-assets/script.js?v1"></script>
+<script src="../../static-assets/docs.dart.js"></script>
 
 
 
